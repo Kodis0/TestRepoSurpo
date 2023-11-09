@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudioRepository\\TestProjectSurpo\\TestProjectSurpo.csproj",
+      "projectUniqueName": "C:\\Users\\Kodis\\Documents\\GitHub\\TestRepoSurpo\\TestProjectSurpo\\TestProjectSurpo.csproj",
       "projectName": "TestProjectSurpo",
-      "projectPath": "D:\\VisualStudioRepository\\TestProjectSurpo\\TestProjectSurpo.csproj",
+      "projectPath": "C:\\Users\\Kodis\\Documents\\GitHub\\TestRepoSurpo\\TestProjectSurpo\\TestProjectSurpo.csproj",
       "packagesPath": "C:\\Users\\Kodis\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudioRepository\\TestProjectSurpo\\obj\\",
+      "outputPath": "C:\\Users\\Kodis\\Documents\\GitHub\\TestRepoSurpo\\TestProjectSurpo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudioHub\\NuGetPackages"
