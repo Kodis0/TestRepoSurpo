@@ -1,0 +1,14 @@
+D:\VisualStudioRepository\TestProjectSurpo\bin\Debug\net6.0\TestProjectSurpo.exe
+D:\VisualStudioRepository\TestProjectSurpo\bin\Debug\net6.0\TestProjectSurpo.deps.json
+D:\VisualStudioRepository\TestProjectSurpo\bin\Debug\net6.0\TestProjectSurpo.runtimeconfig.json
+D:\VisualStudioRepository\TestProjectSurpo\bin\Debug\net6.0\TestProjectSurpo.dll
+D:\VisualStudioRepository\TestProjectSurpo\bin\Debug\net6.0\TestProjectSurpo.pdb
+D:\VisualStudioRepository\TestProjectSurpo\obj\Debug\net6.0\TestProjectSurpo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepository\TestProjectSurpo\obj\Debug\net6.0\TestProjectSurpo.AssemblyInfoInputs.cache
+D:\VisualStudioRepository\TestProjectSurpo\obj\Debug\net6.0\TestProjectSurpo.AssemblyInfo.cs
+D:\VisualStudioRepository\TestProjectSurpo\obj\Debug\net6.0\TestProjectSurpo.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepository\TestProjectSurpo\obj\Debug\net6.0\TestProjectSurpo.dll
+D:\VisualStudioRepository\TestProjectSurpo\obj\Debug\net6.0\refint\TestProjectSurpo.dll
+D:\VisualStudioRepository\TestProjectSurpo\obj\Debug\net6.0\TestProjectSurpo.pdb
+D:\VisualStudioRepository\TestProjectSurpo\obj\Debug\net6.0\TestProjectSurpo.genruntimeconfig.cache
+D:\VisualStudioRepository\TestProjectSurpo\obj\Debug\net6.0\ref\TestProjectSurpo.dll
