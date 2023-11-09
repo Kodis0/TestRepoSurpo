@@ -4,4 +4,4 @@ int n = 0;
 
 Console.WriteLine("Check Branck 1");
 
-int n = 1;
+int n1 = 1;
